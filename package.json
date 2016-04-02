@@ -1,6 +1,6 @@
 {
   "name": "tap-producer-macbre",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "A module for producing TAP output",
   "main": "./tap-producer.js",
   "author": "Isaac Z. Schlueter <i@izs.me> (http://blog.izs.me/)",

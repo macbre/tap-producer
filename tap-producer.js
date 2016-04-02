@@ -17,7 +17,7 @@ TapProducer.encode = function (result, diag) {
 
 inherits(TapProducer, require("stream").Stream)
 function TapProducer (diag) {
-  TapProducer.super.call(this)
+  TapProducer.super_.call(this)
   this.diag = diag
   this.count = 0
   this.readable = this.writable = true
